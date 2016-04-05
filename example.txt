@@ -1,3 +1,4 @@
 base commit
 branch1 1
 master
+branch1 2
